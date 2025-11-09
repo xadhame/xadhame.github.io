@@ -113,7 +113,7 @@ p a:hover {
     ?>
 </table>
 
-<p><a href="formulaire.php">Ajouter un nouvel étudiant</a></p>
+<p><a href="index.php">Ajouter un nouvel étudiant</a></p>
 
 </body>
 </html>
